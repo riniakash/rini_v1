@@ -209,6 +209,14 @@ let timelineElements = [
     },
     {
       id: 6,
+      title: "rini makes her first git commit to the ADCS org",
+      description:
+      "Made akash so proud. Might not be a very big breakthrough commit, but she accomplished something very significant",
+      date: "May 25th 2021",
+      icon: "school",
+    },
+    {
+      id: 6,
       title: "The day! rini ki halat kharab and akash ki toh bygod fattt gayi",
       description:
       "Akash unknowingly expressed his feelings and rini ke bohot sochne and maje lene ke baad both of them entered the relationship, Letter to Rini-1 was written.",

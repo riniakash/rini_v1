@@ -15,7 +15,7 @@ return (
 				textAlign: "center",
 				fontStyle: "italic",
 				marginTop: "-50px" }}>
-		{ "rini is everything that akash could ever ask for, everything he does hereby is for her,<br></br>giving up is never an option" }
+		{ "rini is everything that akash could ever ask for, everything he does hereby is for her, \n giving up is never an option" }
 	</h1>
 	{/* {<Container>
 		<Row>
